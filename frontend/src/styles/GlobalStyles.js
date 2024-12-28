@@ -1,0 +1,1 @@
+// Common Styles for all the pages
